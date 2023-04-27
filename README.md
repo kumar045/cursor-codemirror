@@ -4,7 +4,7 @@ Hello! This is an old version of [Cursor](https://cursor.so/) based off of the [
 
 <p align="center">
 <a href="https://cursor.so/">
-<img src="https://user-images.githubusercontent.com/4297743/227696390-0c1886c7-0cda-4528-9259-0b2944892d4c.png" width="800"><br>
+<img src="https://user-images.githubusercontent.com/4297743/227696390-0c1886c7-0cda-4528-9259-0b2944892d4c.png" width="600"><br>
 </a>
 </p>
 
