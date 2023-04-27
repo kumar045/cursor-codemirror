@@ -2,6 +2,12 @@
 
 Hello! This is an old version of [Cursor](https://cursor.so/) based off of the [Codemirror](https://codemirror.net/) text editing component. If you're looking to build your own code editor from the ground-up, this may serve as a useful guide 🙂
 
+<p align="center">
+<a href="https://cursor.so/">
+<img src="https://user-images.githubusercontent.com/4297743/227696390-0c1886c7-0cda-4528-9259-0b2944892d4c.png" width="800"><br>
+</a>
+</p>
+
 **Features**
 * Standard navigation abilities: file tree, "Command P", ripgrep-based search
 * Editing table-stakes: split-panes, tabs
